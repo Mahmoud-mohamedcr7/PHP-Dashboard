@@ -1,0 +1,9 @@
+.mother{
+    width: 100%;
+    font-size: 20px;
+}
+main{
+    float: right;
+    border: 1px solid gray;
+    padding: 5px;
+}
